@@ -1,4 +1,5 @@
 > 文中代码均可在 [这里](https://github.com/amazingCoding/reactNativeMoudleTest) 中找到
+
 react-native 最让我觉得舒心的事情，就是能把在 native 端做好的东西包装好，交给 Javascript 端调用。
 如果你在公司做，自家的产品能一直不倒而且开发人员有着很好的组装意识的话，在产品的的不断迭代过程中，有着各
 种的模块包装出来，而这些包装好的模块，可以交给 Javascript 开发人员调用，这样就能把一些功能下放到灵活调用的 react-native 去了。
